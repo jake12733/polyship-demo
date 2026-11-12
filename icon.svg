@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="polyship-icon" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.55" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#polyship-icon)"/>
+  <g transform="translate(6 6) scale(1.625)">
+    <path d="M15 6.5V21H7.5L15 6.5Z" fill="#fff"/>
+    <path d="M17.2 10.2V21h6.3l-6.3-10.8Z" fill="#fff" fill-opacity="0.72"/>
+    <path d="M6 23h20l-2.4 3H8.4L6 23Z" fill="#fff"/>
+  </g>
+</svg>

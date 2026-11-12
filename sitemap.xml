@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>http://localhost:3000/en</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ko</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ja</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/zh</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/es</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/fr</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/de</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/pt</loc>
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/ko" />
+<xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/ja" />
+<xhtml:link rel="alternate" hreflang="zh" href="http://localhost:3000/zh" />
+<xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/es" />
+<xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/fr" />
+<xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/de" />
+<xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/pt" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/en" />
+<lastmod>2026-11-12T11:58:58.694Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+</urlset>
